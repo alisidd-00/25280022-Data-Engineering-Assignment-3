@@ -1,0 +1,23 @@
+expectation_type,success,unexpected_count,unexpected_percent,partial_unexpected_list
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_to_exist,True,,,[]
+expect_column_values_to_not_be_null,True,0.0,0.0,[]
+expect_column_values_to_not_be_null,True,858.0,0.8250000000000001,"[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]"
+expect_column_values_to_not_be_null,True,860.0,0.826923076923077,"[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]"
+expect_column_values_to_not_be_null,True,847.0,0.814423076923077,"['NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT', 'NaT']"
+expect_column_values_to_not_be_null,True,852.0,0.8192307692307691,"[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]"
+expect_column_values_to_not_be_null,True,4977.0,4.785576923076923,"[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]"
+expect_column_values_to_be_unique,False,7955.0,7.649038461538462,"[80135, 27773, 47591, 50804, 31729, 79578, 67340, 99824, 2871, 16465, 47464, 9563, 88624, 54920, 23164, 76048, 12643, 70229, 5423, 86004]"
+expect_column_values_to_be_between,False,1639.0,1.5889789428781946,"[0.0, -84.0, -24.0, 0.0, 0.0, -91.0, -68.0, 0.0, 0.0, 0.0, -91.0, 0.0, 0.0, -81.0, -27.0, -83.0, -3.0, 0.0, -95.0, -79.0]"
+expect_column_values_to_be_between,False,1040.0,1.008318628686665,"[98776.0, 97564.0, 90237.0, 92662.0, 95528.0, 97275.0, 90254.0, 93317.0, 93534.0, 97927.0, 96178.0, 94107.0, 99830.0, 90265.0, 97498.0, 94855.0, 99431.0, 94444.0, 98606.0, 95017.0]"
+expect_column_values_to_be_between,False,1040.0,1.0083381811130503,"[9325.0, 9764.0, 9093.0, 9053.0, 9711.0, 9003.0, 9663.0, 9030.0, 9357.0, 9023.0, 9327.0, 9474.0, 9078.0, 9208.0, 9053.0, 9687.0, 9934.0, 9985.0, 9348.0, 9467.0]"
+expect_table_row_count_to_be_between,True,,,[]
+expect_column_values_to_be_in_set,False,1456.0,1.4027245226304939,"['unknown', 'PARTNER', 'PARTNER', 'ONLINE', 'N/A', 'ONLINE', 'PHONE', 'ONLINE', 'N/A', 'N/A', '', 'N/A', 'ONLINE', 'ONLINE', 'ONLINE', 'PHONE', 'PHONE', 'ONLINE', 'N/A', 'PARTNER']"
+expect_column_values_to_be_in_set,True,0.0,0.0,[]
+expect_column_values_to_be_of_type,True,,,[]
